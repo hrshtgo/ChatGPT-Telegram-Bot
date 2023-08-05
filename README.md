@@ -3,6 +3,7 @@ A voice chatbot that has the computational powers of ChatGPT and is easily acces
 
 ## Requirements
 Create your openai API key: [https://gptforwork.com/help/gpt-for-docs/setup/create-openai-api-key].
+
 Follow the following steps in telegram to generate your API token:
 * Search for BotFather in telegram.
 * Type "/start" to start the chat with BotFather.
